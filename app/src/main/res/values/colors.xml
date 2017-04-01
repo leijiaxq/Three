@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="white">#FFFFFF</color>
+    <color name="white_press">#DDDDDD</color>
+    <color name="line_gray">#FFDDDDDD</color>
+    <color name="text_black333">#333333</color>
+    <color name="text_gray999">#999999</color>
+    <color name="text_gray666">#666666</color>
+
+    <!--背景主颜色-->
+    <color name="main_gray">#F7F7F7</color>
+    <color name="translate_gray">#00000000</color>
+
+
+    <color name="black_alf10">#1a000000</color>
+    <color name="pop_text_bg">#e0e0e0</color>
+
+    <!--灰色背景-->
+    <color name="gray_bg">#eeeeee</color>
+
+
+    <integer-array name="gplus_colors">
+        <item>@color/gplus_color_3</item>
+        <item>@color/gplus_color_1</item>
+        <item>@color/gplus_color_2</item>
+        <item>@color/gplus_color_4</item>
+    </integer-array>
+
+    <color name="gplus_color_1">#3e802f</color>
+    <color name="gplus_color_2">#f4b400</color>
+    <color name="gplus_color_3">#427fed</color>
+    <color name="gplus_color_4">#b23424</color>
+    <color name="gplus_color_4_nor">#D32B36</color>
+
+
+    <color name="text_red">#D32B36</color>
+
+    <!--水波纹颜色-->
+    <color name="item_water_white">#d9d9d9</color>
+
+    <!--进度条dialog背景颜色-->
+    <color name="progress_dialog_bg">#55000000</color>
+
+</resources>
+
